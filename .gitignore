@@ -1,0 +1,5 @@
+#folders
+/.idea
+/datasets
+#files
+.gitignore
