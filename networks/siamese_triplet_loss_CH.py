@@ -5,8 +5,8 @@ import sklearn.model_selection
 import numpy as np
 np.random.seed(0)
 
-# from keras.models import Sequential
-# from keras.models import Model
+# from keras.networks import Sequential
+# from keras.networks import Model
 # from keras.layers import Conv2D, ZeroPadding2D, Activation, Input, concatenate
 # from keras.layers.pooling import MaxPooling2D
 # from keras.layers.core import Lambda, Flatten, Dense
